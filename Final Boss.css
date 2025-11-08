@@ -19,13 +19,13 @@ h1 {
 }
 
 h2 {
-    color: #000000;
+    color: #ffffff;
     text-align: center;
 
     }
 
 h3 {
-    color: #000000;
+    color: #ffffff;
     text-align: center;
     
     }
@@ -37,7 +37,7 @@ h4 {
     }
 
 p {
-    color: #000000;
+    color: #ffffff;
     text-align: center;
         
     }
@@ -72,7 +72,7 @@ nav a {
 
 section {
     padding: 20px;
-    background-color: #ffffff;
+    background-color: #000000;
     margin-bottom: 20px;
 }
 
